@@ -1,0 +1,3 @@
+PlayIntent play demo
+LocationControlIntent to turn {location} {status}
+LocationControlIntent to change the {location} to {status}

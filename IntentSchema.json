@@ -1,0 +1,20 @@
+{
+  "intents": [
+    {
+      "intent": "PlayIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "status",
+          "type": "GPIO_CONTROL"
+        },
+        {
+          "name": "location",
+          "type": "LOCATION"
+        }
+      ],
+      "intent": "LocationControlIntent"
+    }
+  ]
+}
